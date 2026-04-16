@@ -1,6 +1,6 @@
 # Python for Data Analytics - Learning Repository
 
-Documenting my Python learning journey with a focus on data analytics applications. Every concept is applied to real business scenarios—sales, inventory, customer data—rather than generic textbook examples.
+Documenting my Python learning journey with a focus on data analytics applications. Every concept is applied to real business scenarios- sales, inventory, customer data - rather than generic textbook examples.
 
 ## Topics Covered
 * **Loops & Iteration** → Sales data analysis
