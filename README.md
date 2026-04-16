@@ -25,5 +25,5 @@ I come from a manufacturing background. I learn best when code solves actual bus
 - [x] File Handling (JSON/CSV)
 - [x] Exception Handling
 - [x] Iterators & Generators
-- [ ] Modules & Virtual Environments (In Progress)
-- [ ] Object-Oriented Programming (Coming Soon)
+- [x] Modules & Virtual Environments (In Progress)
+- [x] Object-Oriented Programming (Coming Soon)
