@@ -1,1 +1,1 @@
-# Python Basics for Data Analysis.
+# Python Basics for Data Analysis
