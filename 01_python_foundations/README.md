@@ -129,4 +129,4 @@ Lists, Tuples, Dictionaries, Sets — storing and organising collections of data
 
 ---
 
-*Part of [python-for-data-analytics](../README.md) | Parth Parikh | Ahmedabad*
+*Part of [python-for-data-analytics](../README.md) | Parth Parikh*
