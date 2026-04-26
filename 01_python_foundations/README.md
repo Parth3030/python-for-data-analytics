@@ -10,21 +10,21 @@
 01_python_foundations/
 │
 ├── 01_02_variables_and_data_types/     ← Sessions 1 & 2 combined
-│   ├── variables_intro.py
-│   ├── naming_conventions.py
-│   ├── dynamic_typing.py
+│   ├── hello_analyst.py
+│   ├── jupyter_vs_.py_file.py
+│   ├── sales_variables.py
 │   └── ...
 │
 ├── 03_data_types_analysis/             ← Session 3
-│   ├── int_float_operations.py
-│   ├── type_casting_real_data.py
-│   ├── boolean_business_logic.py
+│   ├── boolean_in_business_logic.py
+│   ├── float_precision_in_finance.py
+│   ├── full_data_type_audit.py
 │   └── ...
 │
 └── 04_strings_for_data_cleaning/       ← Session 4
-    ├── string_methods.py
-    ├── slicing_order_ids.py
-    ├── fstrings_invoice.py
+    ├── basic_string_methods.py
+    ├── find_and_replace_cleaning.py
+    ├── f-Strings_for_reports.py
     └── ...
 ```
 
